@@ -11,6 +11,7 @@ Teniendo esta información, la idea es que podamos resolver algunas consultas hi
 Las consultas iniciales son las siguientes:
 
 1)¿Qué vehículos recorren mayor distancia diaria en promedio? Cuales recorrerán mayor distancia?
+
 2) ¿Qué vehículos tienen un mayor consumo de energía (kWh) por cada kilómetro que recorren?
 3)¿Existen modelos iguales pero de diferentes clientes  consumos de combustible (energía) distintos?
 4) ¿Existe una relación entre el scoring de manejo vs el consumo de energía de los vehículos?¿Se ve afectado por el mal manejo?
