@@ -50,8 +50,12 @@ En principio serìa resolver consultas que bajo un anàlisis exploratorio y diag
 **Modelo preditctivo:**
 
 1) ¿Cuàl serà el rendimiento de la distancia recorrida por los vehìculos por cliente y modelo?
+
 2) ¿Cuàl serà la proyecciòn de consumo de los vehìculos por modelo por cliente ( alta, baja, etc).
+
 3) ¿Què vehìculos depreciarian mayormente la baterìa de seguir presentando sobre descargas o sobre temperaturas ya evidenciadas?
+
 4) ¿Còmo serà la evoluciòn de notificaciones o alertas por tipo en los vehìculos por cliente?
+
 5) ¿ Què cliente tendrà un mayor gasto operativo a futuro por el consumo promedio diario (kWh/Km).
 
