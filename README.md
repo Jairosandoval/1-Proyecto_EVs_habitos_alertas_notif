@@ -49,6 +49,9 @@ En principio serìa resolver consultas que bajo un anàlisis exploratorio y diag
 
 9) Que cliente tiene el mayor/menor ratio de ntf/vehìculo?
 
+12) Cùal es el ratio de ntf/vehìculo por tipo de eventos?
+13) Quièn tiene un mayor ratio por cada Km recorrido? 
+
 **Modelo preditctivo:**
 
 1) ¿Cuàl serà el rendimiento de la distancia recorrida por los vehìculos por cliente y modelo?
