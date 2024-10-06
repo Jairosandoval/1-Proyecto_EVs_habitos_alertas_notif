@@ -47,6 +47,8 @@ En principio serìa resolver consultas que bajo un anàlisis exploratorio y diag
 
 8)¿Qué cliente comete el mayor y menor umbral de aceleraciones o frenadas bruscas?
 
+9) Que cliente tiene el mayor/menor ratio de ntf/vehìculo?
+
 **Modelo preditctivo:**
 
 1) ¿Cuàl serà el rendimiento de la distancia recorrida por los vehìculos por cliente y modelo?
